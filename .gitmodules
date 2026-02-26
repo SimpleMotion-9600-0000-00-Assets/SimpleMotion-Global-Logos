@@ -1,0 +1,9 @@
+[submodule ".claude"]
+	path = .claude
+	url = https://github.com/SimpleMotion-99-Templates/990003-ST-99-Default-Dot-Claude.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/SimpleMotion-99-Templates/990007-ST-99-Default-Dot-GitHub.git
+[submodule ".github-private"]
+	path = .github-private
+	url = https://github.com/SimpleMotion-99-Templates/990002-ST-99-Default-Dot-GitHub-Private.git
